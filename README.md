@@ -13,7 +13,7 @@ A multi-tenant customer-support platform with a React/TypeScript owner dashboard
 - **64 tests**, including adversarial HTTP integration tests.
 - Server-enforced tenant isolation and session-based owner authorization.
 - Approved FAQ matching; no generative model call in the default application.
-- Runs locally; public backend deployment is in progress.
+- [Live full-stack demo](https://sunshine-support-demo.onrender.com/) with a real Node.js API and temporary SQLite storage. Free hosting sleeps and resets demo data.
 
 ## More projects
 
